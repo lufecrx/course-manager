@@ -1,6 +1,12 @@
-# CourseManager
+<h1 align="center">CourseManager</h1>
+
+------
+
+<a href="https://imgbox.com/eDbKpTF0" target="_blank"><img src="https://images2.imgbox.com/d4/b2/eDbKpTF0_o.png" alt="image host"/></a>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+
+<a href="https://imgbox.com/BHBTs5ZO" target="_blank"><img src="https://images2.imgbox.com/55/7b/BHBTs5ZO_o.png" alt="image host"/></a>
 
 ## Development server
 
